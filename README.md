@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{JessonPascua}/count.svg)
 
 <!--
 **JessonPascua/JessonPascua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
