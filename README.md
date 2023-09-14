@@ -24,7 +24,7 @@
 
 ## GitHub Stats:
 
-![Jesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessonPascua&show_icons=true&theme=radical)
+![Jesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessonPascua&show_icons=false&theme=radical)
 
 
 
