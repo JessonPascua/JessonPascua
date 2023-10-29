@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Jesson Pascua Here!
-C# Developer | .NET Developer
+C# Developer | .NET Developer | Software Developer
 
 - **Email:** JessonPascua.Work@gmail.com
 - **Phone:** (+63) 927 8819540
